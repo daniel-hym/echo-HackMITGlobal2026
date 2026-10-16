@@ -1,4 +1,4 @@
-# Echo — real-time aphasia word-finding co-pilot
+# Echo — real-time aphasia word-finding co-pilot (HackMIT Global 2026 Team Project) 
 
 Echo listens to a person with **aphasia/anomia**, detects the moment they get
 stuck searching for a word, and offers the **intended word** in ~1–2 s — or
