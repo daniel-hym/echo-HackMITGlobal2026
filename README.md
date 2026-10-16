@@ -2,8 +2,8 @@
 
 Echo listens to a person with **aphasia/anomia**, detects the moment they get
 stuck searching for a word, and offers the **intended word** in ~1–2 s — or
-instantly via prefetch — so they finish *their own* sentence. HackMIT — Health &
-Accessibility.
+instantly via prefetch — so they finish *their own* sentence. (HackMIT Global 2026 — Health &
+Accessibility)
 
 ![Echo's live UI at rest: status chips, the dual-channel timeline (what the transcript sees vs. what the mic hears), and the session tally — calm by design until a stall happens](docs/img/ui-idle.png)
 
